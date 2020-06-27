@@ -17,5 +17,5 @@ Curso para aprender os fundamentos da linguagem GO Lang
 ## Udemy
 [Go (Golang): Explorando a Linguagem do Google](https://www.udemy.com/course/curso-go/)
 
-<!-- ## Certificado
-![Screenshot](/readme-images/AWS-CloudNative-Terraform-Serverless.jpg) -->
+## Certificado
+![Screenshot](/13-readme-image/UC-d95a2255-edbc-46f1-8d02-8fba7541db48.jpg)
